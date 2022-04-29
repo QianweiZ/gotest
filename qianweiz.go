@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	testing
+
 	fmt.Println("test")
 	var str string = "This is an example of a string"
 	fmt.Printf("T/F? Does the string \"%s\" have prefix %s? ", str, "Th")
